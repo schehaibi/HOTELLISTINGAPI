@@ -1,0 +1,18 @@
+2023-02-21 12:25:26.537 +01:00 [INF] Now listening on: https://localhost:7243
+2023-02-21 12:25:26.573 +01:00 [INF] Now listening on: http://localhost:5082
+2023-02-21 12:25:26.577 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-21 12:25:26.578 +01:00 [INF] Hosting environment: Development
+2023-02-21 12:25:26.581 +01:00 [INF] Content root path: C:\Users\21626\Desktop\video2\HotelListingAPI\
+2023-02-21 12:26:27.946 +01:00 [INF] Application is shutting down...
+2023-02-21 12:26:36.827 +01:00 [INF] Now listening on: https://localhost:7243
+2023-02-21 12:26:36.885 +01:00 [INF] Now listening on: http://localhost:5082
+2023-02-21 12:26:36.893 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-21 12:26:36.895 +01:00 [INF] Hosting environment: Development
+2023-02-21 12:26:36.896 +01:00 [INF] Content root path: C:\Users\21626\Desktop\video2\HotelListingAPI\
+2023-02-21 12:51:07.831 +01:00 [INF] Application is shutting down...
+2023-02-21 12:51:15.843 +01:00 [INF] Now listening on: https://localhost:7243
+2023-02-21 12:51:15.894 +01:00 [INF] Now listening on: http://localhost:5082
+2023-02-21 12:51:15.901 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-21 12:51:15.904 +01:00 [INF] Hosting environment: Development
+2023-02-21 12:51:15.906 +01:00 [INF] Content root path: C:\Users\21626\Desktop\video2\HotelListingAPI\
+2023-02-21 12:56:52.513 +01:00 [INF] Application is shutting down...
